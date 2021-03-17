@@ -1,0 +1,133 @@
+
+hcom.infy.UserMS.dto.BuyerDTO#valueOf(Lcom/infy/UserMS/entity/BuyerEntity;)Lcom/infy/UserMS/dto/BuyerDTO;Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaA A("1*À$
+1Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaB B($†ù
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaB B(""
+%0com.infy.UserMS.dto.BuyerDTO"com.infy.UserMS.dto.BuyerDTO≤
+Ø
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaB B($
+%1"&com.infy.UserMS.dto.BuyerDTO#<init>()V*$
+"
+%0com.infy.UserMS.dto.BuyerDTO¥
+±
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaB B(%(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO"__id*$
+"
+%0com.infy.UserMS.dto.BuyerDTOÿ’
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaC C((	
+%2int"0com.infy.UserMS.entity.BuyerEntity#getBuyerId()I*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getBuyerId()ﬂ‹
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaC C()
+
+%3void"+com.infy.UserMS.dto.BuyerDTO#setBuyerId(I)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+	
+%2int2setBuyerId(I)Ì
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaD D("
+%4java.lang.String">com.infy.UserMS.entity.BuyerEntity#getName()Ljava/lang/String;*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2	getName()àÖ
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaD D(#
+
+%5void"9com.infy.UserMS.dto.BuyerDTO#setName(Ljava/lang/String;)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+%4java.lang.String2setName(Ljava/lang/String;)ÚÔ
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaE E($
+%6java.lang.String"?com.infy.UserMS.entity.BuyerEntity#getEmail()Ljava/lang/String;*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2
+getEmail()äá
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaE E(%
+
+%7void":com.infy.UserMS.dto.BuyerDTO#setEmail(Ljava/lang/String;)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)˛˚
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaF F(0
+%8java.lang.String"Ecom.infy.UserMS.entity.BuyerEntity#getPhonenumber()Ljava/lang/String;*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getPhonenumber()ñì
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaF F(1
+
+%9void"@com.infy.UserMS.dto.BuyerDTO#setPhonenumber(Ljava/lang/String;)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+%8java.lang.String2"setPhonenumber(Ljava/lang/String;)˘ˆ
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaG G(*
+%10java.lang.String"Bcom.infy.UserMS.entity.BuyerEntity#getPassword()Ljava/lang/String;*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getPassword()íè
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaG G(+
+%11void"=com.infy.UserMS.dto.BuyerDTO#setPassword(Ljava/lang/String;)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)€ÿ
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaH H(*
+
+%12int"1com.infy.UserMS.entity.BuyerEntity#getIsActive()I*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getIsActive()„‡
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaH H(+
+%13void",com.infy.UserMS.dto.BuyerDTO#setIsActive(I)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+
+%12int2setIsActive(I)„‡
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaI I(2
+
+%14int"5com.infy.UserMS.entity.BuyerEntity#getIsPrivileged()I*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getIsPrivileged()ÎË
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaI I(3
+%15void"0com.infy.UserMS.dto.BuyerDTO#setIsPrivileged(I)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+
+%14int2setIsPrivileged(I)„‡
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaJ J(2
+
+%16int"5com.infy.UserMS.entity.BuyerEntity#getRewardPoints()I*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getRewardPoints()ÎË
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaJ J(3
+%17void"0com.infy.UserMS.dto.BuyerDTO#setRewardPoints(I)V**
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO*
+
+
+%16int2setRewardPoints(I)"á
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/BuyerDTO.javaK K(*
+(
+buyerDTOcom.infy.UserMS.dto.BuyerDTO:+
+buyer"com.infy.UserMS.entity.BuyerEntityB "
+com.infy.UserMS.dto.BuyerDTO

@@ -1,0 +1,105 @@
+
+kcom.infy.UserMS.dto.SellerDTO#valueOf(Lcom/infy/UserMS/entity/SellerEntity;)Lcom/infy/UserMS/dto/SellerDTO;Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java3 3(!"1*å
+1Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java4 4((£ 
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java4 4(&#
+%0com.infy.UserMS.dto.SellerDTO"com.infy.UserMS.dto.SellerDTOµ
+²
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java4 4((
+%1"'com.infy.UserMS.dto.SellerDTO#<init>()V*%
+#
+%0com.infy.UserMS.dto.SellerDTO¸
+µ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java4 4()*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"__id*%
+#
+%0com.infy.UserMS.dto.SellerDTOÞÛ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java5 5(-	
+%2int"2com.infy.UserMS.entity.SellerEntity#getSellerId()I*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2getSellerId()åâ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java5 5(.
+
+%3void"-com.infy.UserMS.dto.SellerDTO#setSellerId(I)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+	
+%2int2setSellerId(I)ôñ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java6 6(%
+%4java.lang.String"?com.infy.UserMS.entity.SellerEntity#getName()Ljava/lang/String;*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2	getName()Œ‰
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java6 6(&
+
+%5void":com.infy.UserMS.dto.SellerDTO#setName(Ljava/lang/String;)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+
+%4java.lang.String2setName(Ljava/lang/String;)öó
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java7 7('
+%6java.lang.String"@com.infy.UserMS.entity.SellerEntity#getEmail()Ljava/lang/String;*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2
+getEmail()Ž‹
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java7 7((
+
+%7void";com.infy.UserMS.dto.SellerDTO#setEmail(Ljava/lang/String;)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)‚ÿ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java8 8(3
+%8java.lang.String"Fcom.infy.UserMS.entity.SellerEntity#getPhonenumber()Ljava/lang/String;*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2getPhonenumber()š—
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java8 8(4
+
+%9void"Acom.infy.UserMS.dto.SellerDTO#setPhonenumber(Ljava/lang/String;)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+
+%8java.lang.String2"setPhonenumber(Ljava/lang/String;)ýú
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java9 9(-
+%10java.lang.String"Ccom.infy.UserMS.entity.SellerEntity#getPassword()Ljava/lang/String;*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2getPassword()–“
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java9 9(.
+%11void">com.infy.UserMS.dto.SellerDTO#setPassword(Ljava/lang/String;)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)ßÜ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java: :(-
+
+%12int"2com.infy.UserMS.entity.SellerEntity#getIsActive()I*/
+-
+seller#com.infy.UserMS.entity.SellerEntity2getIsActive()çä
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java: :(.
+%13void"-com.infy.UserMS.dto.SellerDTO#setIsActive(I)V*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO*
+
+
+%12int2setIsActive(I)"Š
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java; ;(,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO:-
+seller#com.infy.UserMS.entity.SellerEntityB!"
+com.infy.UserMS.dto.SellerDTO

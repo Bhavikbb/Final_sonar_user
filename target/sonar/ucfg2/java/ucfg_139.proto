@@ -1,0 +1,81 @@
+
+8com.infy.UserMS.service.BuyerService#privilegedBuyer(I)Zc
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÐ Ð("4*œ
+2c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÕ Õ(	õò
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÕ Õ(
+
+%5void"6com.infy.UserMS.entity.BuyerEntity#setIsPrivileged(I)V*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity*22setIsPrivileged(I)Ù
+Ö
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÖ Ö(0
+%6*com.infy.UserMS.repository.BuyerRepository"__id*7*5&
+$com.infy.UserMS.service.BuyerService"
+	buyerRepoîë
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÖ Ö((
+%7"com.infy.UserMS.entity.BuyerEntity"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*2
+0
+%6*com.infy.UserMS.repository.BuyerRepository*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2save(Ljava/lang/Object;)"m
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.java× ×(
+""*“
+3c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÓ Ó(çä
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÓ Ó(%(
+%3"com.infy.UserMS.entity.BuyerEntity"*java.util.Optional#get()Ljava/lang/Object;* 
+
+optBuyerjava.util.Optional2get()Ç
+Ä
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÓ Ó(&+
+buyer"com.infy.UserMS.entity.BuyerEntity"__id**
+(
+%3"com.infy.UserMS.entity.BuyerEntityìé
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÔ Ô(	
+%4int"5com.infy.UserMS.entity.BuyerEntity#getRewardPoints()I*-
++
+buyer"com.infy.UserMS.entity.BuyerEntity2getRewardPoints()*
+2
+1*‡
+4c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÑ# Ñ(,Ù
+Ö
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÑ# Ñ(,0
+%0*com.infy.UserMS.repository.BuyerRepository"__id*7*5&
+$com.infy.UserMS.service.BuyerService"
+	buyerRepoÁ¾
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÑ# Ñ(>
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*2
+0
+%0*com.infy.UserMS.repository.BuyerRepository*
+""2findById(Ljava/lang/Object;)ª
+§
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÑ Ñ(?
+optBuyerjava.util.Optional"__id*
+
+%1java.util.OptionalÇÄ
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÒ Ò(
+%2boolean"java.util.Optional#isPresent()Z* 
+
+optBuyerjava.util.Optional2isPresent()*
+3
+1*×
+1c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÚ	 Ú("m
+c
+WC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/service/BuyerService.javaÚ Ú(
+"":
+""B(&
+$com.infy.UserMS.service.BuyerService

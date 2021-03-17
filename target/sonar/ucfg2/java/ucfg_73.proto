@@ -1,0 +1,32 @@
+
+Scom.infy.validator.Validator#validateEmailId(Ljava/lang/String;)Ljava/lang/Boolean;Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java7 7(&"3*Ã
+2Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java:
+ :("c
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java: :(
+""*ÿ
+3Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java8 8(,ž
+›
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java8 8(-
+regexjava.lang.String"__id*
+[A-Za-z]+@[A-Za-z]+\\.comõò
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java9 9(
+%0boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+emailIdjava.lang.String*
+
+regexjava.lang.String2matches(Ljava/lang/String;)*
+2
+1*Ã
+1Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java<	 <("c
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java< <(
+"":
+emailIdjava.lang.StringB "
+com.infy.validator.Validator

@@ -1,0 +1,21 @@
+
+Icom.infy.UserMS.controller.BuyerController#getAllBuyers()Ljava/util/List;g
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaf f($"1*€
+1g
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javag g( ‡
+›
+g
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javag g( *
+%0$com.infy.UserMS.service.BuyerService"__id*@*>,
+*com.infy.UserMS.controller.BuyerController"
+buyerServiceÖÇ
+g
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javag g(/
+%1java.util.List"Ccom.infy.UserMS.service.BuyerService#buyerListAll()Ljava/util/List;*,
+*
+%0$com.infy.UserMS.service.BuyerService2buyerListAll()"Å
+g
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javag g(0
+
+%1java.util.ListB.,
+*com.infy.UserMS.controller.BuyerController

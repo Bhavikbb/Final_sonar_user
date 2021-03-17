@@ -1,0 +1,16 @@
+
+:com.infy.UserMS.dto.OrderDTO#getStatus()Ljava/lang/String;Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/OrderDTO.java, ,("1*‚
+1Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/OrderDTO.java-	 -(ª
+§
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/OrderDTO.java-	 -(
+%0java.lang.String"__id*,**
+com.infy.UserMS.dto.OrderDTO"
+status"u
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/OrderDTO.java- -(
+
+%0java.lang.StringB 
+com.infy.UserMS.dto.OrderDTO

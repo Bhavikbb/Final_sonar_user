@@ -1,0 +1,52 @@
+
+qcom.infy.UserMS.dto.WishListDTO#valueOf(Lcom/infy/UserMS/entity/WishListEntity;)Lcom/infy/UserMS/dto/WishListDTO;\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (""1*«
+1\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (-©¶
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java  (+%
+%0com.infy.UserMS.dto.WishListDTO"com.infy.UserMS.dto.WishListDTOª
+∏
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (-
+%1")com.infy.UserMS.dto.WishListDTO#<init>()V*'
+%
+%0com.infy.UserMS.dto.WishListDTO¿
+Ω
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (..
+wishListDTOcom.infy.UserMS.dto.WishListDTO"__id*'
+%
+%0com.infy.UserMS.dto.WishListDTO‰·
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (.	
+%2int"3com.infy.UserMS.entity.WishListEntity#getBuyerId()I*3
+1
+wishList%com.infy.UserMS.entity.WishListEntity2getBuyerId()ÎË
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (/
+
+%3void".com.infy.UserMS.dto.WishListDTO#setBuyerId(I)V*0
+.
+wishListDTOcom.infy.UserMS.dto.WishListDTO*
+	
+%2int2setBuyerId(I)‚ﬂ
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (,	
+%4int"2com.infy.UserMS.entity.WishListEntity#getProdId()I*3
+1
+wishList%com.infy.UserMS.entity.WishListEntity2getProdId()ÈÊ
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (-
+
+%5void"-com.infy.UserMS.dto.WishListDTO#setProdId(I)V*0
+.
+wishListDTOcom.infy.UserMS.dto.WishListDTO*
+	
+%4int2setProdId(I)"ê
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (0
+.
+wishListDTOcom.infy.UserMS.dto.WishListDTO:1
+wishList%com.infy.UserMS.entity.WishListEntityB#"!
+com.infy.UserMS.dto.WishListDTO

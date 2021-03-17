@@ -1,0 +1,227 @@
+
+†com.infy.UserMS.controller.SellerController#inactivateSeller(Lcom/infy/UserMS/dto/SellerDTO;)Lorg/springframework/http/ResponseEntity;h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw w(/"startingBlock*¥
+2h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java ('å
+â
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java ('.
+%8(org.springframework.core.env.Environment"__id*@*>-
++com.infy.UserMS.controller.SellerController"
+environmentÕÒ
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java (M
+%9java.lang.String"_org.springframework.core.env.PropertyResolver#getProperty(Ljava/lang/String;)Ljava/lang/String;*0
+.
+%8(org.springframework.core.env.Environment*
+SELLER_DOES_NOT_EXISTS2getProperty(Ljava/lang/String;)±
+®
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java (N"
+failureMessagejava.lang.String"__id*
+
+%9java.lang.String©
+¦
+j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java€< €(R*
+%10#org.springframework.http.HttpStatus"__id*
+""ÈÅ
+j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java€ €(,.
+%11'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityæ
+ã
+j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java€ €(S
+%12"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*0
+.
+%11'org.springframework.http.ResponseEntity*$
+"
+failureMessagejava.lang.String*,
+*
+%10#org.springframework.http.HttpStatusÜ
+Ù
+j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java€ €(S3
+response'org.springframework.http.ResponseEntity"__id*0
+.
+%11'org.springframework.http.ResponseEntity*
+1*›
+3h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java| |(&å
+â
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java| |(&.
+%3(org.springframework.core.env.Environment"__id*@*>-
++com.infy.UserMS.controller.SellerController"
+environmentÙÖ
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java| |(P
+%4java.lang.String"_org.springframework.core.env.PropertyResolver#getProperty(Ljava/lang/String;)Ljava/lang/String;*0
+.
+%3(org.springframework.core.env.Environment*
+DELETION_SUCCESSFUL_SELLER2getProperty(Ljava/lang/String;)±
+®
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java| |(Q"
+successMessagejava.lang.String"__id*
+
+%4java.lang.String¦
+£
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java}8 }(E)
+%5#org.springframework.http.HttpStatus"__id*
+""ÅÂ
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java} }((-
+%6'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityá
+Þ
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java} }(F
+%7"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%6'org.springframework.http.ResponseEntity*$
+"
+successMessagejava.lang.String*+
+)
+%5#org.springframework.http.HttpStatusÙ
+Ö
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java} }(F3
+response'org.springframework.http.ResponseEntity"__id*/
+-
+%6'org.springframework.http.ResponseEntity*
+1*ª
+startingBlockh
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw/ w(Qb
+`
+
+__unknown_file (
+%13"__id*7*5
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+emaila
+_
+
+__unknown_file (
+%14"__id*6*4
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+namee
+c
+
+__unknown_file (
+%15"__id*:*8
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+
+passwordh
+f
+
+__unknown_file (
+%16"__id*=*;
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+phonenumberÂ
+¿
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw0 w(<
+%17"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%15¾
+»
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javawG w(P8
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+
+password"__annotation*
+
+%17Â
+¿
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw0 w(<
+%18"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%16Á
+¾
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javawG w(P;
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+phonenumber"__annotation*
+
+%18Â
+¿
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw0 w(<
+%19"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%13»
+¸
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javawG w(P5
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+email"__annotation*
+
+%19Â
+¿
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaw0 w(<
+%20"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%14º
+·
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javawG w(P4
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO"
+name"__annotation*
+
+%20*
+4*À
+4h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javax% x()°
+­
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javax x(*3
+response'org.springframework.http.ResponseEntity"__id*
+""ä
+á
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaz z(+
+%0%com.infy.UserMS.service.SellerService"__id*B*@-
++com.infy.UserMS.controller.SellerController"
+sellerServiceûø
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaz- z(A
+%1java.lang.String":com.infy.UserMS.dto.SellerDTO#getEmail()Ljava/lang/String;*,
+*
+	sellerDTOcom.infy.UserMS.dto.SellerDTO2
+getEmail()°­
+h
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.javaz z(B
+%2boolean"Gcom.infy.UserMS.service.SellerService#deleteSeller(Ljava/lang/String;)Z*-
++
+%0%com.infy.UserMS.service.SellerService*
+
+%1java.lang.String2 deleteSeller(Ljava/lang/String;)*
+2
+3*•
+1j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java‚
+ ‚("£
+j
+^C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/SellerController.java‚ ‚(5
+3
+response'org.springframework.http.ResponseEntity:*
+	sellerDTOcom.infy.UserMS.dto.SellerDTOB/-
++com.infy.UserMS.controller.SellerController

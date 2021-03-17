@@ -1,0 +1,32 @@
+
+Wcom.infy.validator.Validator#validatePhonenumber(Ljava/lang/String;)Ljava/lang/Boolean;Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java> >(*"3*Ã
+2Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.javaA
+ A("c
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.javaA A(
+""*ó
+3Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java? ?(Ž
+‹
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java? ?(
+regexjava.lang.String"__id*
+	[0-9]{10}ùö
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.java@ @(
+%0boolean"-java.lang.String#matches(Ljava/lang/String;)Z*!
+
+phonenumberjava.lang.String*
+
+regexjava.lang.String2matches(Ljava/lang/String;)*
+2
+1*Ã
+1Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.javaC	 C("c
+Y
+OC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/validator/Validator.javaC C(
+"":
+phonenumberjava.lang.StringB "
+com.infy.validator.Validator

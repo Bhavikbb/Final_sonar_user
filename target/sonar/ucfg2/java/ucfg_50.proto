@@ -1,0 +1,98 @@
+
+Qcom.infy.UserMS.dto.SellerDTO#createEntity()Lcom/infy/UserMS/entity/SellerEntity;Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java> >(""1*«
+1Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java? ?(+Ø¨
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java? ?())
+%0#com.infy.UserMS.entity.SellerEntity"#com.infy.UserMS.entity.SellerEntity¡
+æ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java? ?(+
+%1"-com.infy.UserMS.entity.SellerEntity#<init>()V*+
+)
+%0#com.infy.UserMS.entity.SellerEntity¡
+æ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java? ?(,-
+seller#com.infy.UserMS.entity.SellerEntity"__id*+
+)
+%0#com.infy.UserMS.entity.SellerEntity «
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java@ @((	
+%2int",com.infy.UserMS.dto.SellerDTO#getSellerId()I*!
+com.infy.UserMS.dto.SellerDTO2getSellerId()ÓÎ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.java@ @()
+
+%3void"3com.infy.UserMS.entity.SellerEntity#setSellerId(I)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+	
+%2int2setSellerId(I)‡›
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaA A( 
+%4java.lang.String"9com.infy.UserMS.dto.SellerDTO#getName()Ljava/lang/String;*!
+com.infy.UserMS.dto.SellerDTO2	getName()ïí
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaA A(!
+
+%5void"@com.infy.UserMS.entity.SellerEntity#setName(Ljava/lang/String;)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+
+%4java.lang.String2setName(Ljava/lang/String;)‚ﬂ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaB B("
+%6java.lang.String":com.infy.UserMS.dto.SellerDTO#getEmail()Ljava/lang/String;*!
+com.infy.UserMS.dto.SellerDTO2
+getEmail()óî
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaB B(#
+
+%7void"Acom.infy.UserMS.entity.SellerEntity#setEmail(Ljava/lang/String;)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)ÓÎ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaC C(.
+%8java.lang.String"@com.infy.UserMS.dto.SellerDTO#getPhonenumber()Ljava/lang/String;*!
+com.infy.UserMS.dto.SellerDTO2getPhonenumber()£†
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaC C(/
+
+%9void"Gcom.infy.UserMS.entity.SellerEntity#setPhonenumber(Ljava/lang/String;)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+
+%8java.lang.String2"setPhonenumber(Ljava/lang/String;)ÈÊ
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaD D((
+%10java.lang.String"=com.infy.UserMS.dto.SellerDTO#getPassword()Ljava/lang/String;*!
+com.infy.UserMS.dto.SellerDTO2getPassword()üú
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaD D()
+%11void"Dcom.infy.UserMS.entity.SellerEntity#setPassword(Ljava/lang/String;)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)À»
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaE E((
+
+%12int",com.infy.UserMS.dto.SellerDTO#getIsActive()I*!
+com.infy.UserMS.dto.SellerDTO2getIsActive()Ì
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaE E()
+%13void"3com.infy.UserMS.entity.SellerEntity#setIsActive(I)V*/
+-
+seller#com.infy.UserMS.entity.SellerEntity*
+
+
+%12int2setIsActive(I)"ç
+Z
+PC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/SellerDTO.javaF F(/
+-
+seller#com.infy.UserMS.entity.SellerEntityB!
+com.infy.UserMS.dto.SellerDTO

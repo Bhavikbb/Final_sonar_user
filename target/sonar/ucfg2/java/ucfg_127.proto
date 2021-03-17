@@ -1,0 +1,23 @@
+
+Pcom.infy.UserMS.controller.BuyerController#privilegedBuyer(Ljava/lang/Integer;)Zi
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaà à( "1*ä
+1i
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaá á(â
+ß
+i
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaá á(*
+%0$com.infy.UserMS.service.BuyerService"__id*@*>,
+*com.infy.UserMS.controller.BuyerController"
+buyerService™–
+i
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaá á(7
+%1boolean"8com.infy.UserMS.service.BuyerService#privilegedBuyer(I)Z*,
+*
+%0$com.infy.UserMS.service.BuyerService*
+
+buyerIdjava.lang.Integer2privilegedBuyer(I)"s
+i
+]C:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/controller/BuyerController.javaâ â(
+"":
+buyerIdjava.lang.IntegerB.,
+*com.infy.UserMS.controller.BuyerController

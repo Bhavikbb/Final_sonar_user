@@ -1,0 +1,7 @@
+organization=bhavik
+projectKey=Bhavikbb_Final_sonar_user
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18249
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bhavikbb_Final_sonar_user
+ceTaskId=AXg8IqrFSlSMwMXdefSs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg8IqrFSlSMwMXdefSs

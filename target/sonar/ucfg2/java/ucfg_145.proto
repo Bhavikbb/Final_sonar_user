@@ -1,0 +1,49 @@
+
+Ucom.infy.UserMS.dto.WishListDTO#createEntity()Lcom/infy/UserMS/entity/WishListEntity;\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (#"1*Ñ
+1\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (0µ²
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java  (.+
+%0%com.infy.UserMS.entity.WishListEntity"%com.infy.UserMS.entity.WishListEntityÇ
+Ä
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (0
+%1"/com.infy.UserMS.entity.WishListEntity#<init>()V*-
++
+%0%com.infy.UserMS.entity.WishListEntityÉ
+Æ
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java (11
+wishList%com.infy.UserMS.entity.WishListEntity"__id*-
++
+%0%com.infy.UserMS.entity.WishListEntityÎË
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java   ('	
+%2int"-com.infy.UserMS.dto.WishListDTO#getBuyerId()I*#!
+com.infy.UserMS.dto.WishListDTO2getBuyerId()ôñ
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java   ((
+
+%3void"4com.infy.UserMS.entity.WishListEntity#setBuyerId(I)V*3
+1
+wishList%com.infy.UserMS.entity.WishListEntity*
+	
+%2int2setBuyerId(I)ÌÉ
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java! !(%	
+%4int",com.infy.UserMS.dto.WishListDTO#getProdId()I*#!
+com.infy.UserMS.dto.WishListDTO2getProdId()òï
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java! !(&
+
+%5void"3com.infy.UserMS.entity.WishListEntity#setProdId(I)V*3
+1
+wishList%com.infy.UserMS.entity.WishListEntity*
+	
+%4int2setProdId(I)"“
+\
+RC:/Users/Arpit/Final_sonar_user/src/main/java/com/infy/UserMS/dto/WishListDTO.java" "(3
+1
+wishList%com.infy.UserMS.entity.WishListEntityB#!
+com.infy.UserMS.dto.WishListDTO
